@@ -7,3 +7,5 @@ retrieved from environment variables (MCUXpresso path, Robot Framework com-ports
 Added the required environment variables to the Node setting to make sure that all executed scripts 
 are stored in the repository. 
 Robot framework plugin to see the test status.
+
+### The config files for MCU_xpresso is not attached here. 
